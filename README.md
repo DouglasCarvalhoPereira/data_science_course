@@ -1,3 +1,3 @@
 # EBAC
 
-Práticas Python para envio de valiações curso EBAC.
+Práticas Python para envio de avaliações curso EBAC.
