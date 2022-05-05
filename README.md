@@ -1,3 +1,3 @@
-"# Testes Python" 
+# EBAC
 
-Testes de python executar práticas Python.
+Prátcias Python para envio de valiações curso EBAC.
